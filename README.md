@@ -25,5 +25,6 @@ This repository documents my progress, learning experiences, and continued growt
 Citations:
 What is the CIA triad? definition, importance, & examples. SecurityScorecard. (2025, May 22). 
       https://securityscorecard.com/blog/what-is-the-cia-triad/ 
+      
 Seeley, N. (2023, July 27). The CIA triad and thinking in First principles (part 3 of 3). selinc.com.
       https://selinc.com/cybersecurity-center/the-cia-triad-and-thinking-in-first-principles-part-3/ 
